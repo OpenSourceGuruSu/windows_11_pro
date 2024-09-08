@@ -1,3 +1,11 @@
+# Wondering where to buy Windows 11 Pro keys?
+
+You can purchase them at: https://www.geekeys.net.
+
+This site is reliable, and their support team is excellent. If you encounter any issues activating Windows 11, they are knowledgeable and ready to assist.
+
+For a direct link to the Windows 11 Pro key, click here: https://www.geekeys.net/product/windows-11-professional-cd-key-digital-download/
+
 # Windows 11 Pro productkey activation
 Activation Windows 11 Pro product key with CMD
 # Get Started
@@ -80,4 +88,3 @@ Type the following commands one for one to activate:
 `slmgr /ato`
 
 Now you have Windows 11 Pro and it *activated*! You can check settings to see it. 
-*Give a star and follow me for guides*
